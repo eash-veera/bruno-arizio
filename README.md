@@ -4,8 +4,6 @@
 
 [![Screenshot of Website](bruno-arizio.png)](https://brunoarizio.com/)
 
-This is the repository of [Bruno Arizio](http://brunoarizio.com/) portfolio. We decided to be transparent and take a step forward in making this entire project open source so people can learn how to make the things we created. The website was awarded at [Awwwards](https://www.awwwards.com/) with Site of The Day and Developer Award in [November 25, 2019](https://www.awwwards.com/sites/bruno-arizio-portfolio).
-
 ## Overview
 
 ### Front End
